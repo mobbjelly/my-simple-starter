@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":";;AAAA,IAAI,IAAI,EAAJ;AACJ,QAAQ,GAAR,CAAY,CAAZ;AACA,SAAS,KAAT,CAAe,eAAf;AACA,SAAS,KAAT,CAAe,QAAf","file":"app.js","sourcesContent":["let a = 15;\r\nconsole.log(a);\r\ndocument.write('<h2>yeah</h2>');\r\ndocument.write('omgwtf');"],"sourceRoot":"/source/"}
